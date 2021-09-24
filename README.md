@@ -5,7 +5,7 @@ Pros:
 - Quick to pick up on new topics. 🧠
 - Happy to help on projects. ❤
 - Simple + compact 👌
-- FP and DOP 💪
+- FP + OOP 💪
 
 Cons:
 - Don't really talk terminology 👉👈
