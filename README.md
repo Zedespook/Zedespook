@@ -1,7 +1,10 @@
-# Who am I does not matter, what I do does.
+# Hi, welcome to my GitHub page! 👋
 
-**Hi, and welcome to my page! 👋**
+## Introduction
 
-## About me
+There is not a lot right now, but I'm in the process of adding stuff.
 
-I'm mostly a game developer 🕹️, working in the ever evolving Godot Engine. However, I'm also very passionate about automation 🤖 which I mostly do in Python and AutoHotKey; there are also automation related technologies like RPA that I'm excited about.
+- [My YouTube](https://www.youtube.com/zedespook)
+- [My Website](https://www.zedespook.com/)
+- [My Twitter](https://twitter.com/Zedespook)
+- [My Medium](https://medium.com/@Zedespook)
